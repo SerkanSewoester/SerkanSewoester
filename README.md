@@ -3,15 +3,15 @@
 
 ---
 
-👋 Merhaba! Ben bir **Yazılım Test Mühendisiyim**. Manuel ve otomasyon testleri konusunda pratik tecrübeye sahibim.  
-💻 Java, Selenium, TestNG, Cucumber ve Postman gibi araçlarda yetkinim.  
-🔍 SDLC ve STLC süreçlerine hakimim; yazılımın her aşamasında kalite sağlamayı hedeflerim.  
-🚀 Hedefim; hataları sadece bulmak değil, **önlem almak** ve kullanıcıya değer katan yazılım teslim etmektir.  
-📚 Sürekli öğrenen, gelişen ve gerçek dünya projelerine katkı sunmak isteyen bir QA’yım.
+👋 Hello! I'm a **Software Test Engineer** with hands-on experience in both **manual and automated testing**.  
+💻 Skilled in **Java, Selenium, TestNG, Cucumber, JDBC, and Postman**.  
+🔍 Strong understanding of **SDLC** and **STLC**, focused on delivering reliable and maintainable test solutions.  
+🚀 I aim not just to find bugs, but to **prevent them early** and deliver software that truly serves its users.  
+📚 Lifelong learner, constantly growing and excited to contribute to **real-world, user-centered projects**.
 
 ---
 
-<h3 align="left">🧰 Kullandığım Diller ve Araçlar:</h3>
+<h3 align="left">🧰 Languages and Tools:</h3>
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -35,6 +35,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <!-- JDBC represented via Java icon -->
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="jdbc" width="40" height="40"/>
+  </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="40" height="40"/>
   </a>
@@ -51,7 +55,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub İstatistiklerim</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SerkanSewoester&show_icons=true&locale=en&layout=compact" alt="SerkanSewoester" /></p>
 
@@ -63,7 +67,7 @@
 
 ---
 
-<h3 align="left">📬 İletişim</h3>
+<h3 align="left">📬 Contact Me</h3>
 
-📧 Bana ulaşmak istersen: serkan@example.com  
+📧 Email: serkan@example.com  
 💼 LinkedIn: [linkedin.com/in/serkan-sewoester](https://linkedin.com/in/serkan-sewoester)
