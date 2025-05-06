@@ -23,7 +23,6 @@
  <a href="https://testng.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/jonathontoon/tvlogo-icons/master/svg/testng.svg" alt="testng" width="40" height="40"/>
 </a>
-
  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
   <img src="https://cucumber.io/images/cucumber-open-gh-badge.svg" alt="cucumber" width="80" height="40"/>
 </a>
@@ -36,7 +35,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <!-- JDBC represented via Java icon -->
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="jdbc" width="40" height="40"/>
   </a>
@@ -60,15 +58,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SerkanSewoester&show_icons=true&locale=en&layout=compact" alt="SerkanSewoester" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SerkanSewoester&show_icons=true&locale=en" alt="SerkanSewoester" /></p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerkanSewoester&" alt="SerkanSewoester streak stats"/>
-</p>
-
----
-
-<h3 align="left">📬 Contact Me</h3>
-
-📧 Email: serkan@example.com  
-💼 LinkedIn: [linkedin.com/in/serkan-sewoester](https://linkedin.com/in/serkan-sewoester)
+<p>&nbsp;<img align="center" src="https://
