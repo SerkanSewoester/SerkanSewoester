@@ -20,12 +20,13 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://static.javatpoint.com/testng/images/testng-tutorial.png" alt="testng" width="40" height="40"/>
-  </a>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" alt="cucumber" width="40" height="40"/>
-  </a>
+ <a href="https://testng.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/jonathontoon/tvlogo-icons/master/svg/testng.svg" alt="testng" width="40" height="40"/>
+</a>
+
+ <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+  <img src="https://cucumber.io/images/cucumber-open-gh-badge.svg" alt="cucumber" width="80" height="40"/>
+</a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
