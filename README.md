@@ -1,43 +1,69 @@
-### Hi there 👋, SerkanSewoester
-#### Software Test Engineer
-![Software Test Engineer](https://t4.ftcdn.net/jpg/04/52/82/59/360_F_452825937_GmSapljUy0ivF6DeAFsUCoAAvzOAqsw5.jpg)
+<h1 align="center">Hi 👋, I'm Serkan Sewoester</h1>
+<h3 align="center">Software Test Engineer | Manual & Automation Tester</h3>
 
-## 👋 About Me
-I'm a **Software Test Engineer** passionate about delivering reliable, user-focused software.
+---
 
-## 🧰 Skills
-- 💻 Java, Selenium, HTML, TestNG, Cucumber  
-- 🧪 REST Assured, Postman  
-- 🗄️ MySQL, JDBC  
-- 📊 Apache POI  
-- ⚙️ Jenkins, Maven  
-- 📌 JIRA  
+👋 Merhaba! Ben bir **Yazılım Test Mühendisiyim**. Manuel ve otomasyon testleri konusunda pratik tecrübeye sahibim.  
+💻 Java, Selenium, TestNG, Cucumber ve Postman gibi araçlarda yetkinim.  
+🔍 SDLC ve STLC süreçlerine hakimim; yazılımın her aşamasında kalite sağlamayı hedeflerim.  
+🚀 Hedefim; hataları sadece bulmak değil, **önlem almak** ve kullanıcıya değer katan yazılım teslim etmektir.  
+📚 Sürekli öğrenen, gelişen ve gerçek dünya projelerine katkı sunmak isteyen bir QA’yım.
 
-## 🚀 Highlights
-- Built data-driven frameworks from scratch  
-- Automated RESTful API testing  
-- Active contributor to Agile sprint cycles
+---
 
-## 📬 Let's Connect
-Feel free to reach out on [LinkedIn](https://www.linkedin.com) or via email!
+<h3 align="left">🧰 Kullandığım Diller ve Araçlar:</h3>
 
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://testng.org/" target="_blank" rel="noreferrer">
+    <img src="https://static.javatpoint.com/testng/images/testng-tutorial.png" alt="testng" width="40" height="40"/>
+  </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" alt="cucumber" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="rest-assured" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
-Skills: JAVA/HTML/SELENIUM/TESTNG/CUCUMBER/MYSQL/APACHEPOI/JDBC/RESTASSURED/JENKINS/MAVEN/JIRA/JUNIT
+---
 
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SerkanSewoester)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/serkansewöster//)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerkanSewoester)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=SerkanSewoester)  
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h3 align="left">📊 GitHub İstatistiklerim</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SerkanSewoester&show_icons=true&locale=en&layout=compact" alt="SerkanSewoester" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SerkanSewoestert&show_icons=true&locale=en" alt="SerkanSewoester" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SerkanSewoester&show_icons=true&locale=en" alt="SerkanSewoester" /></p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerkanSewoester&" alt="SerkanSewoester streak stats"/>
+</p>
+
+---
+
+<h3 align="left">📬 İletişim</h3>
+
+📧 Bana ulaşmak istersen: serkan@example.com  
+💼 LinkedIn: [linkedin.com/in/serkan-sewoester](https://linkedin.com/in/serkan-sewoester)
