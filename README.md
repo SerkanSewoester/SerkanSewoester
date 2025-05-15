@@ -24,17 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SerkanSewoester&show_icons=true&locale=en&layout=compact" alt="SerkanSewoester" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SerkanSewoester&show_icons=true&locale=en" alt="SerkanSewoester" /></p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerkanSewoester&" alt="SerkanSewoester streak stats"/>
-</p>
-
----
 
 ### 📬 Contact Me
 
