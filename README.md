@@ -24,15 +24,6 @@
 
 ---
 
-### 📈 Profile Stats
-
-![Visitor Count](https://hits.sh/github.com/serkanseweoster.svg?style=flat-square)
-
----
-
-### 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/serkanseweoster/serkanseweoster/output/github-contribution-grid-snake.svg)
 
 
 ---
