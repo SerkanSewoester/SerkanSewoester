@@ -28,4 +28,4 @@
 ### 📬 Contact Me
 
 📧 Email: sewoesterserkan@gmail.com  
-💼 LinkedIn: [linkedin.com/in/serkansewöster](https://www.linkedin.com/in/serkansewöster/)
+💼 LinkedIn: [linkedin.com/in/serkansewöster](https://www.linkedin.com/in/serkansewoester/)
