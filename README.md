@@ -5,8 +5,8 @@
 
 👋 Hello! I'm a **Software Test Engineer** with hands-on experience in both **manual and automated testing**.  
 🔍 Strong understanding of **SDLC** and **STLC**, focused on delivering reliable and maintainable test solutions.  
-🚀 I aim not just to find bugs, but to **prevent them early** and deliver software that truly serves its users.  
-📚 Lifelong learner, constantly growing and excited to contribute to **real-world, user-centered projects**.
+🚀 I aim not only to find bugs but also to prevent them early and help deliver software that truly serves users.
+📚 I'm a lifelong learner, constantly growing and passionate about contributing to real-world, user-centered projects.**.
 
 ---
 
