@@ -30,6 +30,7 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/serkanseweoster/serkanseweoster/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/serkanseweoster/serkanseweoster/output/github-contribution-grid-snake.gif)
+
 
 ---
