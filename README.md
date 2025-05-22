@@ -28,12 +28,10 @@
 
 ![Visitor Count](https://hits.sh/github.com/serkanseweoster.svg?style=flat-square)
 
+---
+
 ### 🐍 Contribution Snake
 
-![snake svg](https://raw.githubusercontent.com/serkanseweoster/serkanseweoster/output/github-contribution-grid-snake.svg)
-
-
-
-
+![snake gif](https://raw.githubusercontent.com/serkanseweoster/serkanseweoster/output/github-contribution-grid-snake.gif)
 
 ---
