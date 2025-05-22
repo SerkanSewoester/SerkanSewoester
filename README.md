@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Serkan Sewoester</h1>
 <h3 align="center">Software Test Engineer | Manual & Automation Tester</h3>
 
@@ -23,11 +22,14 @@
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-
-
-
 ---
+
+### 📈 Profile Stats
+
+![Visitor Count](https://hits.sh/github.com/serkanseweoster.svg?style=flat-square)
+
 ### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/serkanseweoster/serkanseweoster/blob/output/github-contribution-grid-snake.gif)
+
+---
