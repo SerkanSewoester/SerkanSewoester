@@ -10,6 +10,9 @@
 📚 I'm a lifelong learner, constantly growing and passionate about contributing to real-world, user-centered projects.
 
 ---
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/SerkanSeweoster/SerkanSeweoster/blob/output/github-contribution-grid-snake.svg)
 
 ### 🧰 Languages & Tools
 
