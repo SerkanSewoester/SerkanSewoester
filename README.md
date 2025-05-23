@@ -24,6 +24,6 @@
 
 ---
 
-
+![snake gif](https://github.com/SerkanSewoester/SerkanSewoester/blob/output/github-snake-dark.svg)
 
 ---
