@@ -33,7 +33,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=oracle&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white)
-
+![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F.svg?style=flat&logo=java&logoColor=white)
 
 ---
 
