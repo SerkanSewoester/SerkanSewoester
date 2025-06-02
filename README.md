@@ -30,6 +30,10 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=oracle&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white)
+
 
 ---
 
