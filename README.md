@@ -2,7 +2,7 @@
 <h3 align="center">Software Test Engineer | Manual & Automation Tester</h3>
 
 <div align="center">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 
 
