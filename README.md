@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Serkan Sewoester</h1>
 <h3 align="center">Software Test Engineer | Manual & Automation Tester</h3>
 
+<div align="center">
+	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ---
 
 👋 Hello! I'm a **Software Test Engineer** with hands-on experience in both **manual and automated testing**.  
