@@ -37,8 +37,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=KULLANICIADIN&style=flat&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&hide_title=true)
 ![snake gif](https://github.com/SerkanSewoester/SerkanSewoester/blob/output/github-snake-dark.svg)
 
 ---
