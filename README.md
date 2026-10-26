@@ -20,20 +20,15 @@
 ### 🧰 Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=flat&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=flat&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-%23F14336.svg?style=flat)
 ![Cucumber](https://img.shields.io/badge/Cucumber-%23197A32.svg?style=flat)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%2300A98F.svg?style=flat&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=jira&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=flat&logo=apachemaven&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=oracle&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-6DB33F.svg?style=flat&logo=java&logoColor=white)
+
 
 ---
 
